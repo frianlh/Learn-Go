@@ -1,5 +1,5 @@
 # Debug & Fix
-> **Sumber:**
+> **Sumber :**
 > 
 > - [Sololearn: Learn to Code](https://www.sololearn.com/)
 > - [Go Documentation](https://go.dev/doc/)
